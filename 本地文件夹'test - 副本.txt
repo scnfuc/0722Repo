@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-本地编辑
-=======
-Github编辑
->>>>>>> 0b93c96cbd89b5b1fa4961c14db690ef57080e02
-编辑
-
+﻿
 Tier 1: fr de es it  
  
     /* françaisJérémieÉoîï   Deutschäöü   Español   italiano */ 
