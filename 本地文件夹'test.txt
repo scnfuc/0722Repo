@@ -1,12 +1,4 @@
-Tier 1: fr de es it  
- 
-    /* françaisJérémieÉoîï   Deutschäöü   Español   italiano */ 
-    /* fçéÉoîïchäöüañolital */
- 
-Latine-2: pl cs
- 
-   
- 
+
 CCJK: ko ja zt zh 
  
 /* 한국어    日本語のふぉーど    中文(繁體)   中文(简体) */
